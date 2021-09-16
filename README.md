@@ -1,5 +1,5 @@
 ## Hello ！！🥰
-<img src="https://raw.githubusercontent.com/MoeX1n/MoeX1n/main/376112be319bba69172ed67dcfb3e0af.jpg" align="center" />
+<img src="https://cdn.jsdelivr.net/gh/MoeX1n/MoeX1n/376112be319bba69172ed67dcfb3e0af.jpg" align="center" />
 
 
 🏷标签/Tags</br>
